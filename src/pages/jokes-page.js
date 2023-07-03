@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useRef, useState } from "react";
-import apiService from "../services/http-services";
+import apiService from "../services/api-service";
 import { Footer, JokeList, Wrapper } from "../components";
 import { JokesContext } from "../App";
 import { useNavigate } from "react-router-dom";
