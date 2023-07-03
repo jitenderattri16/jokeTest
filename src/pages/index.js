@@ -1,3 +1,4 @@
-import JokesPage from "./JokesPage";
+import JokesPage from "./jokes-page";
+import Details from "./details";
 
-export { JokesPage };
+export { JokesPage, Details };
